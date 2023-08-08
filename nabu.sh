@@ -54,7 +54,7 @@ cd tmp
 7za a -mx9 tmp.zip *
 cd ..
 rm *.zip
-cp -fp tmp/tmp.zip RealKing-Nabu-MiUi-$TIME.zip
+cp -fp tmp/tmp.zip RK-Kernel-unified-Nabu-$TIME.zip
 rm -rf tmp
 echo $TIME
 
